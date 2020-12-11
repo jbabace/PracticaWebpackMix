@@ -1,0 +1,34 @@
+body *.dark {
+  background-color: white;
+  color: black;
+}
+
+body *.ligth {
+  background-color: black;
+  color: white;
+}
+
+body {
+  color: rgba(255, 255, 255, 0.4);
+  background-color: grey;
+}
+
+body header {
+  background-color: black;
+  height: 20%;
+}
+
+body #mapid {
+  height: 780px;
+}
+
+body section {
+  background-color: inherit;
+  height: 85%;
+}
+
+body footer {
+  background-color: white;
+  height: 20%;
+}
+
